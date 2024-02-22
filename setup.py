@@ -12,7 +12,7 @@ setup(
     author              = 'bono',
     author_email        = 'ellen333@naver.com',
     url                 = 'https://github.com/jungahjo/bonorr',
-    download_url        = 'https://github.com/jungahjo/ypcc22/archive/0.0.tar.gz',
+    download_url        = 'https://github.com/jungahjo/bonor/archive/0.0.tar.gz',
     install_requires    = [
         "numpy < 1.15"
     ],
