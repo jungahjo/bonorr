@@ -3,16 +3,16 @@ from setuptools import setup, find_packages
 with open('README.md', encoding='utf-8') as f:
     long_description = f.read()
 setup(
-    name                = 'ypcc',
+    name                = 'ypcc22',
     version             = '0.7.1',
     long_description    = long_description,
     long_description_content_type='text/markdown',
     description         = 'ccpy',
     license             = 'MIT',
-    author              = 'jeakwon',
-    author_email        = 'onlytojay@gmail.com',
-    url                 = 'https://github.com/jeakwon/ypcc',
-    download_url        = 'https://github.com/jeakwon/ypcc/archive/0.0.tar.gz',
+    author              = 'bono',
+    author_email        = 'ellen333@naver.com',
+    url                 = 'https://github.com/jungahjo/ypcc22',
+    download_url        = 'https://github.com/jungahjo/ypcc22/archive/0.0.tar.gz',
     install_requires    = [
         "numpy < 1.15"
     ],
